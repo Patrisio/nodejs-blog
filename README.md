@@ -5,7 +5,7 @@
 ```
 {
   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtToken": "secret",
+  "jwtSecret": "secret",
   "githubToken": "<yoursecrectaccesstoken>"
 }
 ```
