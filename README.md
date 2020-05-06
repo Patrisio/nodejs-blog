@@ -4,9 +4,9 @@
 1. Добавить default.json в папку config со следующим кодом
 ```
 {
-  "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
+  "mongoURI": "<ваш_mongoDB_Atlas_uri_cо_всеми_настройками>",
   "jwtSecret": "secret",
-  "githubToken": "<yoursecrectaccesstoken>"
+  "githubToken": "<ваш_токен>"
 }
 ```
 
