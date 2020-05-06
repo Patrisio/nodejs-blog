@@ -2,11 +2,11 @@
 Чтобы запустить проект, вам необходимо:
 
 1. Добавить default.json в папку config со следующим кодом
-```{
+`{
   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
   "jwtToken": "secret",
   "githubToken": "<yoursecrectaccesstoken>"
-}```
+}`
 
 2. Установить все зависимости для серверной части
 npm i
